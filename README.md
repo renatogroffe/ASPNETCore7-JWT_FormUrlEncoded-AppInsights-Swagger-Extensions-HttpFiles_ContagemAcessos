@@ -1,0 +1,2 @@
+# ASPNETCore7-JWT_FormUrlEncoded-AppInsights-Swagger-Extensions-HttpFiles_ContagemAcessos
+Exemplo de API REST para contagem de acessos criada com o .NET 7 + ASP.NET Core + Swagger/OpenAPI, com extensões para utilização de JWT (JSON Web Tokens, com requisição no formato application/x-www-form-urlencoded), Dockerfile, monitoramento via AppInsights e simulação de falhas ativando flag. Inclui arquivos .http para testes a partir do VS Code.
